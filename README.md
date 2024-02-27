@@ -34,3 +34,10 @@ Jika Anda menemukan masalah atau ingin berkontribusi pada pengembangan aplikasi 
 ## Lisensi
 
  tiktokdl dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Silakan merujuk pada file LICENSE untuk informasi lebih lanjut.
+
+ #Pilihan Format Output:
+ 
+Tambahkan opsi untuk memilih format output setelah mengunduh video (misalnya MP4, AVI, atau GIF).
+Pengguna dapat memilih format yang sesuai dengan kebutuhan mereka.
+
+ 
